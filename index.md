@@ -1,4 +1,12 @@
 ---
-title: Welcome to my blog
+title: Github pages skills
 ---
+
+# Testing
+
+words words words words words words words
+
+- words
+- words
+- words
 
